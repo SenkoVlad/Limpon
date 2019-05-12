@@ -1,0 +1,50 @@
+/* @font-face {
+  font-family: 'OpenSans';
+  src: url(../fonts/opensans/OpenSans-Regular.ttf);
+} */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #7581a1;
+  line-height: 26px; 
+}
+h1 {
+  font-size: 80px;
+  font-weight: 800;
+  color: #192b59;
+}
+.nav {
+  font-size: 12px;
+  color: #6e7ea9;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+a {
+  text-decoration: none;
+}
+.btn-free {
+  color: #fff;
+  font-weight: 400;
+  background-color: #1085e4;
+}
+.grid h2 {
+  font-size: 40px;
+  color: #192b59;
+  font-weight: 700;
+}
+.grid h2 span {
+  color: #1085e4;
+  font-size: 14px;
+  display: block;
+}
+.grid-item h3 {
+  color: #192b59;
+  font-weight: 600;
+  font-size: 20px;
+}
+.grid-item a {
+  font-size: 14px;
+  color: #1085e4;
+  font-weight: 600;
+}
+ 
